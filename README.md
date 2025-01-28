@@ -1,3 +1,8 @@
+-=(TimePilot_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Time Pilot for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 An FPGA implementation of Time Pilot for the MiSTer platform
 
